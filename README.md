@@ -1,10 +1,16 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋
+ -->
 
 <!-- **VrishtiGupta11/VrishtiGupta11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
  -->
+ <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Vrishti+Gupta!;+A+Software+Developer&center=true&size=30">
+  </a>
+</h1>
+
 - 🔭 I’m currently working on building command over Data Structures and Algorithms.
 - 🌱 I’m currently pursuing B-tech in Computer Science & Engineering.
 - 📫 Feel Free to check out my website: https://vrishtigupta.azurewebsites.net/
@@ -61,5 +67,3 @@ Here are some ideas to get you started:
 ![](https://count.getloli.com/get/@VrishtiGupta11.github.readme)
 </br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
