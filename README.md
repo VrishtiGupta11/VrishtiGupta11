@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
  -->
-- 🔭 I’m currently working on building command over Data Structures.
+- 🔭 I’m currently working on building command over Data Structures and Algorithms.
 - 🌱 I’m currently pursuing B-tech in Computer Science & Engineering.
 - 📫 Feel Free to check out my website: https://vrishtigupta.azurewebsites.net/
 - 😄 Pronouns: She/Her
