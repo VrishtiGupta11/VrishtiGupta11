@@ -23,6 +23,16 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<h2>Languages-Frameworks-Tools</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,dart,python,javascript,git,github,flutter,firebase,mysql,sqlite,html,css,react,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,jquery,figma,latex,azure,vscode,androidstudio" />
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <a><h2>Stats</h2></a>
 <div>
