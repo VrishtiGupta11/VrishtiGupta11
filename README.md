@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,dart,python,javascript,git,github,flutter,firebase,mysql,sqlite,html,css,react,nodejs" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,jquery,figma,latex,azure,vscode,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=angular,jquery,figma,latex,azure,vscode,androidstudio,gcp" />
   </a>
 </p>
 
