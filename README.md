@@ -15,16 +15,14 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 
-<br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
 
 ###  Watch my Contribution Graph getting eaten by the snake 🥳
 ![snake gif](https://raw.githubusercontent.com/VrishtiGupta11/VrishtiGupta11/output/github-contribution-grid-snake.svg)
 
-<br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</br>
+
 
 <a><h2>Stats</h2></a>
 <div>
@@ -40,9 +38,7 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  
- </br>
-  
+
 ### Profile Views
 
 ![](https://count.getloli.com/get/@VrishtiGupta11.github.readme)
