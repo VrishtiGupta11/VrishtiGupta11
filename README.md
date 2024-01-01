@@ -11,8 +11,7 @@ Here are some ideas to get you started:
   </a>
 </h1>
 
-- 🔭 I’m currently working on building command over Data Structures and Algorithms.
-- 🌱 I’m currently pursuing B-tech in Computer Science & Engineering.
+- 🌱 I’m currently working as a Software Development Engineer.
 - 📫 Feel Free to check out my website: https://vrishtigupta.azurewebsites.net/
 - 😄 Pronouns: She/Her
 - ⚡ Hobbies: Coding, Singing, Teaching.
@@ -23,17 +22,21 @@ Here are some ideas to get you started:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--
 ###  Contribution Graph
 ![snake gif](https://raw.githubusercontent.com/VrishtiGupta11/VrishtiGupta11/output/github-contribution-grid-snake.svg)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+-->
 
 <h2>Languages-Frameworks-Tools</h2>
 <br>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,dart,python,java,git,github,flutter,firebase,mysql,sqlite,html,css,react,spring" /><br>
-    <img src="https://skillicons.dev/icons?i=angular,jquery,figma,latex,azure,vscode,androidstudio,gcp" />
+<!--     <img src="https://skillicons.dev/icons?i=cpp,c,dart,python,java,git,github,flutter,firebase,mysql,sqlite,html,css,react,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=angular,jquery,figma,latex,azure,vscode,androidstudio,gcp" /> -->
+   <img src="https://skillicons.dev/icons?i=cpp,c,python,java,git,github,flutter,firebase,mysql,sqlite,html,css,spring" /><br>
+    <img src="https://skillicons.dev/icons?i=figma,latex,vscode,androidstudio" />
   </a>
 </p>
 
