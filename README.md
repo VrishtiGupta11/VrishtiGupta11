@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 </h1>
 
 - 🌱 I’m currently working as a Software Development Engineer.
-- 📫 Feel Free to check out my website: https://vrishtigupta.azurewebsites.net/
 - 😄 Pronouns: She/Her
-- ⚡ Hobbies: Coding, Singing, Teaching.
+- ⚡ Hobbies: Coding, Singing, Playing Badminton, Teaching.
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
